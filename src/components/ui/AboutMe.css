@@ -38,13 +38,13 @@
   right: -20px;
   width: 100px;
   height: 100px;
-  background: #ffc107;
+  background: #ffc100;
   border-radius: 20px;
   z-index: -1;
 }
 
 .section-label {
-  color: #ffc107;
+  color: #ffc100;
   font-size: 16px;
   font-weight: 500;
   margin-bottom: 8px;
@@ -60,7 +60,7 @@
 }
 
 .highlight {
-  color: #ffc107;
+  color: #ffc100;
 }
 
 .about-description {
@@ -85,7 +85,7 @@
   font-size: 16px;
   width: 48px;
   height: 48px;
-  background: #ffc107;
+  background: #ffc100;
   border-radius: 12px;
   display: flex;
   align-items: center;

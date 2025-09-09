@@ -7,6 +7,7 @@
   right: 0;
   z-index: 1000;
   border-bottom: 1px solid rgba(255, 193, 7, 0.1);
+  
 }
 
 .header__content {
@@ -21,7 +22,7 @@
 .header__logo {
   font-size: 28px;
   font-weight: 800;
-  color: #ffc107;
+  color: #ffc100;
   text-decoration: none;
 }
 
@@ -57,7 +58,7 @@
 }
 
 .btn-hire {
-  background: #ffc107;
+  background: #ffc100;
   color: #0D1419;
   border: none;
   padding: 10px 24px;

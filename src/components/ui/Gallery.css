@@ -9,7 +9,7 @@
 }
 
 .section-label {
-  color: #ffc107;
+  color: #ffc100;
   font-size: 16px;
   font-weight: 500;
   margin-bottom: 8px;
@@ -25,7 +25,7 @@
 }
 
 .highlight {
-  color: #ffc107;
+  color: #ffc100;
 }
 
 .section-description {
@@ -57,9 +57,9 @@
 
 .filter-btn:hover,
 .filter-btn.active {
-  background: #ffc107;
+  background: #ffc100;
   color: #0a0f1c;
-  border-color: #ffc107;
+  border-color: #ffc100;
 }
 
 .portfolio-grid {
@@ -78,8 +78,8 @@
 
 .portfolio-item:hover {
   transform: translateY(-10px);
-  border-color: #ffc107;
-  box-shadow: 0 20px 40px rgba(255, 193, 7, 0.1);
+  border-color: #ffc100;
+  box-shadow: 0 20px 40px rgba(255, 193, 0, 0.1);
 }
 
 .portfolio-image {
@@ -125,13 +125,13 @@
   height: 56px;
   display: grid;
   place-items: center;
-  background: #ffc107;
+  background: #ffc100;
   color: #0D1419;
   border: none;
   border-radius: 50%;
   font-size: 26px;
   cursor: pointer;
-  box-shadow: 0 10px 24px rgba(255, 193, 7, 0.2);
+  box-shadow: 0 10px 24px rgba(255, 193, 0, 0.2);
 }
 
 .action-btn:hover { filter: brightness(1.05); }
@@ -139,7 +139,7 @@
 .portfolio-content { display: none; }
 
 .portfolio-category {
-  color: #ffc107;
+  color: #ffc100;
   font-size: 14px;
   font-weight: 500;
 }
@@ -189,7 +189,7 @@
 }
 .hover-caption__category {
   font-size: 12px;
-  color: #ffc107;
+  color: #ffc100;
 }
 .hover-caption__title {
   font-size: 14px;

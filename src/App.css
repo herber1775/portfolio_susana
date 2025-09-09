@@ -20,7 +20,7 @@ body {
 }
 
 .btn-primary {
-  background: #ffc107 !important;
+  background: #ffc100 !important;
   color: #0D1419 !important;
   border: none;
   padding: 1rem 2rem;
@@ -35,14 +35,14 @@ body {
 
 .btn-primary:hover {
   transform: translateY(-2px);
-  box-shadow: 0 10px 25px rgba(255, 193, 7, 0.3);
+  box-shadow: 0 10px 25px rgba(255, 193, 0, 0.3);
   background: #ffb300 !important;
 }
 
 .btn-secondary {
   background: transparent !important;
-  color: #ffc107 !important;
-  border: 2px solid #ffc107;
+  color: #ffc100 !important;
+  border: 2px solid #ffc100;
   padding: 1rem 2rem;
   border-radius: 50px;
   font-weight: 600;
@@ -54,7 +54,7 @@ body {
 }
 
 .btn-secondary:hover {
-  background: #ffc107 !important;
+  background: #ffc100 !important;
   color: #0D1419 !important;
   transform: translateY(-2px);
 }

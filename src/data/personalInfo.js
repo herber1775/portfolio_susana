@@ -80,27 +80,7 @@ export const personalInfo = {
   }
 };
 
-// Servicios que ofrece
-export const services = [
-  {
-    icon: '🎨',
-    title: 'Diseño Gráfico',
-    description: 'Creación de diseños visuales para branding, publicidad y comunicación visual.',
-    features: ['Illustrator', 'Photoshop', 'InDesign', 'Canva']
-  },
-  {
-    icon: '📸',
-    title: 'Fotografía & Composición',
-    description: 'Captura y composición fotográfica profesional para proyectos comerciales y creativos.',
-    features: ['Fotografía Digital', 'Composición Visual', 'Edición Fotográfica', 'Fotografía Comercial']
-  },
-  {
-    icon: '🎙️',
-    title: 'Comunicación & Radio',
-    description: 'Experiencia en comunicación radial y desarrollo de contenido audiovisual creativo.',
-    features: ['Conducción Radial', 'Locución', 'Contenido Creativo', 'Comunicación Efectiva']
-  }
-];
+// Servicios eliminados - componente no utilizado
 
 // Habilidades técnicas
 export const skills = [

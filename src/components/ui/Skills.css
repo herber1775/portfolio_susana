@@ -13,7 +13,7 @@
 }
 
 .skills h2 span {
-  color: #ffc107;
+  color: #ffc100;
 }
 
 .skills__grid {
@@ -40,14 +40,14 @@
 .skill-icon:hover {
   transform: translateY(-5px);
   background: #12192a;
-  border-color: #ffc107;
-  box-shadow: 0 10px 25px rgba(255, 193, 7, 0.1);
+  border-color: #ffc100;
+  box-shadow: 0 10px 25px rgba(255, 193, 0, 0.1);
 }
 
 .skill-icon__logo {
   font-size: 40px;
   margin-bottom: 8px;
-  color: #ffc107;
+  color: #ffc100;
 }
 
 .skill-icon__name {

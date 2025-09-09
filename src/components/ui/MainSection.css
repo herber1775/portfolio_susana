@@ -4,6 +4,7 @@
   min-height: 100vh;
   display: flex;
   align-items: center;
+  
 }
 
 .hero-content {
@@ -21,7 +22,7 @@
 }
 
 .hero-greeting {
-  color: #ffc107;
+  color: #ffc100;
   font-size: 16px;
   font-weight: 500;
   margin-bottom: 16px;
@@ -37,7 +38,7 @@
 }
 
 .hero-name {
-  color: #ffc107;
+  color: #ffc100;
 }
 
 .hero-profession {
